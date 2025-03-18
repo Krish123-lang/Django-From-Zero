@@ -1,0 +1,16 @@
+body {
+    background: white url('images/image.png') no-repeat;
+    background-size: cover;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}
+li a:hover {
+    color: red;
+}
